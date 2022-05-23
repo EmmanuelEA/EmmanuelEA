@@ -1,16 +1,16 @@
-# Hi there 👋, My name is Emmanuel
+# Hola, mi nombre es Emmanuel Escobar
 
 <img width="100%" src="https://github-profile-page-creator.netlify.app/" alt="my banner">
 
 Interés por el área de ciencia de datos y aprendizaje máquina, el generar, explorar y encontrar patrones en datos es asombroso y más si es posible que ciertos patrones te ayuden a generar un pronóstico o tendencia que ayude a mejorar algún entorno tanto social, financiero, académico o de salud. Gusto por la programación con Python, Javascipt(Angular) y Matlab. Realización de pequeños gadgets con microcontroladores y micropython. En el transcurso profesional, he realizado distintas certificaciones sobre seguridad en redes, infraestructura virtual, equipo de cómputo y programación. Interesado en seguir desarrollando nuevas habilidades.
 
-## 💫 Liitle Bit More About Me
-<p>🔭 I'm currently working on Realizando un par de competencias en Kaggle y terminando mis estudio de posgrado</p>
-<p>👯 I want to collaborate on Proyectos de ciencia de datos para mejorar las habilidades adquiridas</p>
-<p>🌱 I'm currently learning backend (flask & django), amazon RDS & postgresql</p>
-<p>💬 Ask me about Python, machine learning</p>
-<p>📫 How to reach me? eea3180@gmail.com</p>
-<p>I regularly write articles on <a href="https://github.com/EmmanuelEA">EmmanuelEA</a></p>
+## 💫 Un poco más de mí
+<p>🔭 Actualmente estoy realizando un par de competencias en Kaggle y terminando mis estudio de posgrado</p>
+<p>👯 Quiero colaborar con proyectos de ciencia de datos para mejorar las habilidades adquiridas</p>
+<p>🌱 Actualmente estoy aprendiendo backend (flask & django) y amazon RDS & postgresql</p>
+<p>💬 Puedes preguntarme acerca de Python, machine learning, matlab y deep learning</p>
+<p>📫 Mi correo es: eea3180@gmail.com</p>
+<p>Estoy empezando a subir los proyectos realizados en <a href="https://github.com/EmmanuelEA">EmmanuelEA</a></p>
 
 ## 💻 Skills
 <p>
@@ -24,7 +24,7 @@ Interés por el área de ciencia de datos y aprendizaje máquina, el generar, ex
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
 </p>
 
-## 👥 Connect With Me
+## 👥 Como me contactas...
 <p>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/emmanuelescobaravalos/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://twitter.com/https://twitter.com/EmmanuelEA"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
