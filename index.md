@@ -1,7 +1,5 @@
 # Hola, mi nombre es Emmanuel
 
-<img width="100%" src="https://github-profile-page-creator.netlify.app/" alt="my banner">
-![alt text for screen readers]([https://github.com/EmmanuelEA/EmmanuelEA.github.io/blob/main/github-header-image.png] "Text to show on mouseover")
 
 Interés por el área de ciencia de datos y aprendizaje máquina, el generar, explorar y encontrar patrones en datos es asombroso y más si es posible que ciertos patrones te ayuden a generar un pronóstico o tendencia que ayude a mejorar algún entorno tanto social, financiero, académico o de salud. Gusto por la programación con Python, Javascipt(Angular) y Matlab. Realización de pequeños gadgets con microcontroladores y micropython. En el transcurso profesional, he realizado distintas certificaciones sobre seguridad en redes, infraestructura virtual, equipo de cómputo y programación. Interesado en seguir desarrollando nuevas habilidades.
 
@@ -16,6 +14,12 @@ Interés por el área de ciencia de datos y aprendizaje máquina, el generar, ex
 ## 💻 Skills
 <p>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" style="margin-bottom: 4px;" height="30px">
@@ -23,6 +27,7 @@ Interés por el área de ciencia de datos y aprendizaje máquina, el generar, ex
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" style="margin-bottom: 4px;" height="30px">
 </p>
 
 ## 👥 Como me contactas...
@@ -33,7 +38,7 @@ Interés por el área de ciencia de datos y aprendizaje máquina, el generar, ex
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/eea3180"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 🌟 Github Badges
+<!## 🌟 Github Badges
 <p>
 </p>
 
@@ -42,4 +47,4 @@ Interés por el área de ciencia de datos y aprendizaje máquina, el generar, ex
 <p><img src="https://github-profile-trophy.vercel.app/?username=">
 </p>
 
-## 📊 Github Status
+## 📊 Github Status>
