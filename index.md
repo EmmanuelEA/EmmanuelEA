@@ -45,7 +45,7 @@ Interés por el área de ciencia de datos y aprendizaje máquina, el generar, ex
 
 [comment]: <> (## 🏆 GitHub Trophies)
 
-[comment]: <> (<p><img src="https://github-profile-trophy.vercel.app/?username=">)
-</p>
+[comment]: <> (<p><img src="https://github-profile-trophy.vercel.app/?username="></q>)
+
 
 [comment]: <> (## 📊 Github Status>)
