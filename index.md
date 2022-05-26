@@ -5,9 +5,9 @@
 Interés por el área de ciencia de datos y aprendizaje máquina, el generar, explorar y encontrar patrones en datos es asombroso y más si es posible que ciertos patrones te ayuden a generar un pronóstico o tendencia que ayude a mejorar algún entorno tanto social, financiero, académico o de salud. Gusto por la programación con Python, Javascipt(Angular) y Matlab. Realización de pequeños gadgets con microcontroladores y micropython. En el transcurso profesional, he realizado distintas certificaciones sobre seguridad en redes, infraestructura virtual, equipo de cómputo y programación. Interesado en seguir desarrollando nuevas habilidades.
 
 ## 💫 Un poco más de mí
-<p>🔭 Actualmente estoy realizando un par de competencias en Kaggle y terminando mis estudio de posgrado</p>
-<p>👯 Quiero colaborar con proyectos de ciencia de datos para mejorar las habilidades adquiridas</p>
-<p>🌱 Actualmente estoy aprendiendo backend (flask & django) y amazon RDS & postgresql</p>
+<p>🔭 Actualmente estoy realizando un par de competencias en Kaggle y terminando mis estudios de posgrado</p>
+<p>👯 Quiero colaborar con proyectos de ciencia de datos para mejorar las habilidades adquiridas y aportar con conocimiento</p>
+<p>🌱 Actualmente estoy aprendiendo backend (flask & django) y Amazon RDS & postgresql</p>
 <p>💬 Puedes preguntarme acerca de Python, machine learning, matlab y deep learning</p>
 <p>📫 Mi correo es: eea3180@gmail.com</p>
 <p>Estoy empezando a subir los proyectos realizados en <a href="https://github.com/EmmanuelEA">EmmanuelEA</a></p>
