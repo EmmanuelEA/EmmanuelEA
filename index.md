@@ -1,6 +1,7 @@
-# Hola, mi nombre es Emmanuel Escobar
+# Hola, mi nombre es Emmanuel
 
 <img width="100%" src="https://github-profile-page-creator.netlify.app/" alt="my banner">
+![alt text for screen readers]([https://github.com/EmmanuelEA/EmmanuelEA.github.io/blob/main/github-header-image.png] "Text to show on mouseover")
 
 Interés por el área de ciencia de datos y aprendizaje máquina, el generar, explorar y encontrar patrones en datos es asombroso y más si es posible que ciertos patrones te ayuden a generar un pronóstico o tendencia que ayude a mejorar algún entorno tanto social, financiero, académico o de salud. Gusto por la programación con Python, Javascipt(Angular) y Matlab. Realización de pequeños gadgets con microcontroladores y micropython. En el transcurso profesional, he realizado distintas certificaciones sobre seguridad en redes, infraestructura virtual, equipo de cómputo y programación. Interesado en seguir desarrollando nuevas habilidades.
 
