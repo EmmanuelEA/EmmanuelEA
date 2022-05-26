@@ -1,6 +1,7 @@
 # Hola, mi nombre es Emmanuel
 
 
+
 Interés por el área de ciencia de datos y aprendizaje máquina, el generar, explorar y encontrar patrones en datos es asombroso y más si es posible que ciertos patrones te ayuden a generar un pronóstico o tendencia que ayude a mejorar algún entorno tanto social, financiero, académico o de salud. Gusto por la programación con Python, Javascipt(Angular) y Matlab. Realización de pequeños gadgets con microcontroladores y micropython. En el transcurso profesional, he realizado distintas certificaciones sobre seguridad en redes, infraestructura virtual, equipo de cómputo y programación. Interesado en seguir desarrollando nuevas habilidades.
 
 ## 💫 Un poco más de mí
@@ -38,13 +39,13 @@ Interés por el área de ciencia de datos y aprendizaje máquina, el generar, ex
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/eea3180"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-<!## 🌟 Github Badges
+[comment]: <> (## 🌟 Github Badges)
 <p>
 </p>
 
-## 🏆 GitHub Trophies
+[comment]: <> (## 🏆 GitHub Trophies)
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=">
+[comment]: <> (<p><img src="https://github-profile-trophy.vercel.app/?username=">)
 </p>
 
-## 📊 Github Status>
+[comment]: <> (## 📊 Github Status>)
